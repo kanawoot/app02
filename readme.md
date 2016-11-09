@@ -8,4 +8,5 @@ by **Kanawoot**.
 * Unit Testing
 
 Contact us at
-[GreatFriend](http://next.greatfriends.biz)
+[GreatFriend1](http://next.greatfriends.biz)
+[GreatFriend2](http://next.greatfriends.biz)
